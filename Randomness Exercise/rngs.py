@@ -2,24 +2,23 @@ import random
 
 k = 5
 n = 10
-size = 100
 
 def numbersNot(num):
     nums = [i+1 for i in range(n)]
     nums.remove(num)
     return nums
 
-def random1():
+def random1(size):
     return [k for i in range(size)]
 
-def random2():
+def random2(size):
     return [random.randint(1, n) for i in range(size)]
 
-def random3():
+def random3(size):
     retval = [random.randint(1, n) for i in range(size)]
     return sorted(retval)
 
-def random4():
+def random4(size):
     retval = []
     replace = random.choice(numbersNot(k))
     for i in range(size):
@@ -27,7 +26,7 @@ def random4():
         else: retval.append(random.randint(1, n))
     return retval
 
-def random5():
+def random5(size):
     if size < n: raise Exception('Yikes my dude')
     retval = []
     for a in range(int(size/n)):
@@ -35,7 +34,7 @@ def random5():
             retval.append(b)
     return retval
 
-def random6():
+def random6(size):
     retval = []
     c = 0
     while c < size:
@@ -45,7 +44,7 @@ def random6():
             c+=1
     return retval  
 
-def random7():
+def random7(size):
     retval = [random.randint(1, n) for i in range(size)]
     deletions = 0
     for x in retval:
@@ -56,7 +55,7 @@ def random7():
             deletions += 1
     return retval
 
-def random8():
+def random8(size):
     retval = []
     c = 0
     while c < size:
@@ -71,7 +70,7 @@ def random8():
         c += 1
     return retval
 
-def random9():
+def random9(size):
     retval = []
     c = 0
     if k == n:
@@ -88,7 +87,7 @@ def random9():
                 c+=1
     return retval
 
-def random10():
+def random10(size):
     retval = []
     if random.choice([True, False]):
         for i in range(size):
