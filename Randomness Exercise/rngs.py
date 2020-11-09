@@ -27,11 +27,16 @@ def random4(size):
     return retval
 
 def random5(size):
-    if size < n: raise Exception('Yikes my dude')
     retval = []
-    for a in range(int(size/n)):
-        for b in range(1, n+1):
+    if size < n: 
+        b = 1
+        for a in range(size):
             retval.append(b)
+            b+=1
+    else:
+        for a in range(int(size/n)):
+            for b in range(1, n+1):
+                retval.append(b)
     return retval
 
 def random6(size):
