@@ -1,6 +1,6 @@
 Welcome to the Final Programming Assignment for the term. It is due Friday, December 11.
 
-**IMPORTANT: Under Construction -- New Materials / Examples are Still Being Added
+**IMPORTANT: Under Construction -- New Materials / Examples are Still Being Added**
 
 Below we outline the four options for the final assignment. Each of these options is designed to be somewhat open-ended, but each option, we attempt to provide you with some concrete first steps. You will need to explore some new material on your own to complete these projects, but we are here to help. Don't hesitate to post on Piazza or email Ellie and Dr. Lepinski if you need help. 
 
@@ -25,6 +25,8 @@ To get started, we recommend that you do the following.
 * Look at the documentation for PRAW (the Python Reddit package) here: https://praw.readthedocs.io/en/latest/
 * Experiment PRAW to do some simple tasks like grabbing a recent /r/catswithjobs post and printing out the title text and the amount of upvotes
 
+---
+
 **OPTION TWO: FUN WITH GRAPHICS**
 
 **Overview:** Google Collab doesn't provide graphics capabilities, but if you download Python onto your machine you can make colorful shapes move around the screen. You could even create a simple game. 
@@ -46,6 +48,8 @@ To get started, we recommend that you do the following.
 * Look at the documentation for the graphics package: https://mcsp.wartburg.edu/zelle/python/
 * Try to get a single circle to move around the screen and bounce when it hits the edges of the screen. 
 
+---
+
 **OPTION THREE: CONCERNING COVID**
 
 **Overview:** Fivethirtyeight has some great data on American's responses to polls throughout 2020 which asked people how concerned they were about Covid. We can use a python library with graph and plot tools to visualize this data. 
@@ -64,6 +68,8 @@ To get started, we recommend that you do the following.
 * Look at the matplotlib Python notebook in this github repository
 * Look at the official matplotlib documentation:  https://matplotlib.org/
 * Experiment with matplotlib to do some simple tasks like taking a single column from the actual data and displaying it on a plot.
+
+---
 
 **OPTION FOUR: NONE OF THE ABOVE**
 
