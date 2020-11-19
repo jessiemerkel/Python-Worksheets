@@ -64,8 +64,8 @@ Note: That doing any one of these well is sufficient to meet the minimum require
 **First Steps:**
 To get started, we recommend that you do the following. 
 
-* Look at the CSV files for polling data in this github repository
-* Look at the matplotlib Python notebook in this github repository
+* Look at the CSV files for polling data in this github repository : https://github.com/mlepinski/Python-Worksheets/tree/master/Matplotlib/Data
+* Look at the matplotlib Python notebook in this github repository : https://github.com/mlepinski/Python-Worksheets/tree/master/Matplotlib
 * Look at the official matplotlib documentation:  https://matplotlib.org/
 * Experiment with matplotlib to do some simple tasks like taking a single column from the actual data and displaying it on a plot.
 
