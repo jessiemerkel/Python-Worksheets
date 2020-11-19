@@ -44,7 +44,7 @@ To get started, we recommend that you do the following.
 
 * Download Python onto your machine 
 * Download the graphics.py package from this Dr. Zelle's webiste: https://mcsp.wartburg.edu/zelle/python/
-* Look at the graphics examples in this github repository
+* Look at the graphics examples in this github repository : https://github.com/mlepinski/Python-Worksheets/tree/master/Graphics
 * Look at the documentation for the graphics package: https://mcsp.wartburg.edu/zelle/python/
 * Try to get a single circle to move around the screen and bounce when it hits the edges of the screen. 
 
