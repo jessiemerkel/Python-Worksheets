@@ -1,6 +1,6 @@
 Welcome to the Final Programming Assignment for the term. It is due Friday, December 11.
 
-**IMPORTANT: Under Construction -- New Materials / Examples are Still Being Added**
+**IMPORTANT: We have intentionally started with pretty simple examples to push you to explore a bit on your own. Using Google to help you find (say) Python Reddit examples is a good tool. If you are having trouble finding examples of something that you need to do, reach out to Ellie and Dr. Lepinski. We are happy to provide additional examples, but we also want you to explore a bit on your own**
 
 Below we outline the four options for the final assignment. Each of these options is designed to be somewhat open-ended, but each option, we attempt to provide you with some concrete first steps. You will need to explore some new material on your own to complete these projects, but we are here to help. Don't hesitate to post on Piazza or email Ellie and Dr. Lepinski if you need help. 
 
