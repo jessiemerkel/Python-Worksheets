@@ -21,7 +21,7 @@ Note: That doing any one of these well is sufficient to meet the minimum require
 **First Steps:**
 To get started, we recommend that you do the following. 
 
-* Look at the reddit Python notebook in this github repository
+* Look at the reddit Python notebook in this github repository : https://github.com/mlepinski/Python-Worksheets/blob/master/Reddit/Reddit_examples.ipynb
 * Look at the documentation for PRAW (the Python Reddit package) here: https://praw.readthedocs.io/en/latest/
 * Experiment PRAW to do some simple tasks like grabbing a recent /r/catswithjobs post and printing out the title text and the amount of upvotes
 
